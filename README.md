@@ -8,4 +8,4 @@
 ### 4. Peringatan Keranjang Belanja Kosong
 ![image](https://github.com/user-attachments/assets/0f100198-e4d3-4f6a-8b50-0c195aad4392)
 ### 5. Struk Belanja
-![struk_belanja](https://github.com/user-attachments/assets/2c1da6a3-a864-4a5b-8745-ab7f799e7445)
+![struk_belanja](https://github.com/user-attachments/assets/9952a712-384f-447e-83a2-6390dbe479f1)
